@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    vISADE VILKA RADER SOM ÄNDRATS MELLAN filerna
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Kan hitta ändringar i respektive version
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Automatisk möjligör att ändringar alltid dokumenteras. Fler versioner än behövs. Sparar mitt i en editering
+    Large enough. Sparas mitt i men om man inte editerar.
+    Jämna mellan rum är bra om man glömmer.
+	Git använder logiska avsnitt genom Commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+     flera filer i en version. En ändring påverkar flera filer i ett set.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
