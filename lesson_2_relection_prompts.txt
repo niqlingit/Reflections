@@ -29,5 +29,9 @@ git log --graph --oneline <branches>
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+git merge branch master <branch>
+Mergar ihop ändringar mellan två brances. Ändringarna kommer att representeras i en branch master i timestamp-ordning
+git branch -d <branch> tar bort med branch som inte längre är behövd
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
