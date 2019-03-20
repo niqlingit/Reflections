@@ -10,6 +10,10 @@ du kan ha filer i working som inte skall adderas vilket görs i staging area.
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+git add <file> som ändrats. med git diff ses ändringar mellan working dir och staging dir.
+git diff --staged visar ändringar mellan staging dir och repository
+git diff commit_old commit_new visar skillnad mellan versioner
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
